@@ -1,0 +1,27 @@
+{
+  "name": "mithril-study",
+  "version": "0.0.0",
+  "author": "Quintion <QuintionTang@gmail.com>",
+  "description": "一个 Mithril.js 学习代码仓库",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.4",
+    "vite": "^2.7.2"
+  },
+  "dependencies": {
+    "@types/mithril": "^2.0.8",
+    "bootstrap": "^5.1.3",
+    "mithril": "^2.0.4",
+    "save": "^2.4.0",
+    "save-dev": "^0.0.1-security"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuintionTang/mithril-study.git"
+  },
+  "license": "MIT"
+}
